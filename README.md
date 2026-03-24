@@ -32,7 +32,7 @@ I'm a highly experienced .NET developer and tech lead with a strong background i
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" height="28" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="28" alt=".NET" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat" height="28" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="28" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
